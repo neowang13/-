@@ -1,0 +1,51 @@
+.navbar-default {
+    background-color: #17202a;
+    border-color: #e7e7e7;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #d5d8dc;
+    background-color: transparent;
+}
+
+.logo {
+	width: 7%;
+    margin-top: -11px;
+    margin-left: 10%;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img {
+    line-height: 1;
+    width: 100%;
+    height: 500px;
+}
+
+.slider-margin-top{
+	margin-top:-21px;
+}
+
+.product{
+	width:33%;
+	height:29%;
+	display:inline-block;
+
+}
+
+.product img{
+	width:100%;
+	height:100%;
+
+}
+
+.product-wrapper{
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+	width:99%;
+}
+
+
